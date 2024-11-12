@@ -1,10 +1,10 @@
 {
   "name": "swag-demo-api",
   "version": "1.0.0",
-  "description": ""
-  "main": "quote/index.js"
+  "description": "",
+  "main": "quote/index.js",
   "scripts": {
-    "start": "func start"
+    "start": "func start",
     "lint" : "prettier -w src"
   },
   "dependencies": {
