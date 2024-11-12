@@ -5,11 +5,10 @@
   "main": "quote/index.js"
   "scripts": {
     "start": "func start"
+    "lint" : "prettier -w src"
   },
   "dependencies": {
-    "@azure/data-tables": "^13.2.2",
     "@azure/functions": "^4.0.0",
-    "prettier": "^3.2.5"
   },
   "devDependencies": {
     "azure-functions-core-tools": "^4.0.5611"
