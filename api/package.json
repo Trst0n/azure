@@ -1,7 +1,7 @@
 {
   "name": "swag-demo-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "quote/index.js",
   "scripts": {
     "start": "func start",
