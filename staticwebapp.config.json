@@ -1,4 +1,5 @@
-{  "platform": {
+{  
+    "platform": {
     "apiRuntime": "node:16"
   }
 }
